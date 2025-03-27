@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">2025EjerciciosLayoutsP2</string>
+
+    <string name="hintRut">Ingrese su Rut</string>
+    <string name="hintContraseña">Ingrese su Contraseña</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="btnCrear">Crear Cuenta</string>
+    <string name="tvOlvido">Olvidaste tu contraseña?</string>
+
+    <string name="cabeceraBeneficios">Beneficios</string>
+    <string name="radio1">Opcion 1</string>
+    <string name="radio2">Opcion 2</string>
+</resources>
